@@ -1,0 +1,38 @@
+body {
+    background-color: MintCream;
+}
+
+h1 {
+    font-family: Garamond;
+    color: black;
+}
+
+h2 {
+    text-align: left;
+    font-family: Garamond;
+    color: black;
+
+}
+
+p {
+    font-family: Garamond;
+    font-size: 1.2em;
+    color: blue;
+}
+
+.center { 
+    text-align: center;
+}
+
+#polar_bear_image {
+    border: 2px solid #0000ff;
+    padding: 1px;
+    height: 75%;
+    width: 75%;
+}
+
+th {
+    font-family: Garamond;
+    font-size: 2em;
+    color: black;
+ }
